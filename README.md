@@ -1,4 +1,4 @@
-### Olá! Muito prazer, me chamo Guilherme Almeida
+### Olá! Muito prazer, me chamo Guilherme
 
 - 🔭 Hoje trabalho com monitoramento em infraestrutura 
 - 🌱 Estudando HTML, CSS e JavaScript
