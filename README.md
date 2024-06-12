@@ -1,7 +1,7 @@
 ### Olá! Muito prazer, me chamo Guilherme
 
 - 🔭 Hoje trabalho com monitoramento em infraestrutura 
-- 🌱 Estudando HTML, CSS e JavaScript
+- 🌱 Estudando Java, HTML, CSS e JavaScript
 - 😄 Pronouns: ele/dele
 
   ##
