@@ -1,8 +1,8 @@
 ### Olá! Muito prazer, me chamo Guilherme
 
-- 🔭 Hoje trabalho com monitoramento em infraestrutura 
-- 🌱 Estudando Java, HTML, CSS e JavaScript
-- 😄 Pronouns: ele/dele
+- 🔭 Atualmente atuo com desenvolvimento em Java
+- 🌱 Estou aprimorando minhas habilidades em Java e estudando Node.js para desenvolvimento backend.
+- 🚀 Focado em projetos que integram automação e otimização de processos no ciclo de desenvolvimento de software.
 
   ##
  
