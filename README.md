@@ -29,7 +29,6 @@
 
 ---
 
-### 🐍 Dynamic Contribution Snake:
 ![snake gif](https://github.com/guilhermesilvaalmeida/guilhermesilvaalmeida/blob/output/github-snake-dark.svg)
 
 ---
